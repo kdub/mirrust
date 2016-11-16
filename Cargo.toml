@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Kevin DuBois <kevin.dubois@canonical.com>"]
 
 [dependencies]
+libc = "0.2.0"
